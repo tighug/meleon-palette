@@ -1,6 +1,6 @@
 {
   "name": "meleon-palette",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Color Palette for Material Design",
   "main": "./dist/Color.js",
   "repository": "https://github.com/tighug/meleon-palette.git",
