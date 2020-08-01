@@ -2,7 +2,7 @@
   "name": "meleon-palette",
   "version": "0.0.1",
   "description": "Color Palette for Material Design",
-  "main": "index.js",
+  "main": "./dist/Color.js",
   "repository": "https://github.com/tighug/meleon-palette.git",
   "author": "tighug <kapuriko123@gmail.com>",
   "license": "MIT",
@@ -17,6 +17,7 @@
     "typescript": "^3.9.7"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   }
 }
