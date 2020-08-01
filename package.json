@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "eslint": "^7.6.0",
     "typescript": "^3.9.7"
   }
 }
