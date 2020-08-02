@@ -1,6 +1,6 @@
 {
   "name": "meleon-palette",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Color Palette for Material Design",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
