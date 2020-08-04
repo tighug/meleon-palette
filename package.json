@@ -1,5 +1,5 @@
 {
-  "name": "meleon-palette",
+  "name": "@tighug/meleon-palette",
   "version": "0.2.0",
   "description": "Color Palette for Material Design",
   "main": "dist/index.js",
@@ -19,6 +19,6 @@
   },
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "prepare": "yarn build"
   }
 }
