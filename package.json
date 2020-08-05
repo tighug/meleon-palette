@@ -1,6 +1,6 @@
 {
-  "name": "@tighug/meleon-palette",
-  "version": "1.0.1",
+  "name": "meleon-palette",
+  "version": "1.0.2",
   "description": "Color Palette for Material Design",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
